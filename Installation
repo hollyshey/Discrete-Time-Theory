@@ -1,0 +1,8 @@
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/yourusername/discrete-time-theory.git
+cd discrete-time-theory
+pip install -r requirements.txt
